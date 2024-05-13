@@ -1,5 +1,5 @@
 Olá!
-Meu Nome é Jo Olopes, e atualmente estou no cursando primeiro semestre de Análise de Desenvolvimento de Sistemas 
+Meu Nome é Josué Olopes, e atualmente estou no cursando primeiro semestre de Análise de Desenvolvimento de Sistemas 
 na Fatec de São José dos Campos(SP).
 
 
